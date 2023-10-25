@@ -1,0 +1,11 @@
+#f1 >p
+{
+color: red;
+background-color: black;
+}
+
+.f2
+{
+    color: gold;
+    background-color: black !important;
+}

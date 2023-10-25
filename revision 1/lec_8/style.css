@@ -1,0 +1,14 @@
+.cont
+{
+    /* height: 300px;
+    width: 500px; */
+    border: 2px solid red;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+}
+
+.img1
+{
+    float: left;
+}
